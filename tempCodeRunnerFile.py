@@ -1,0 +1,1 @@
+empty_stock.close()
